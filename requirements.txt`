@@ -1,0 +1,5 @@
+crewai>=0.80.0
+agenthelm-sdk
+langchain-openai
+langchain-community
+python-dotenv
